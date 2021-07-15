@@ -19,4 +19,4 @@
         ease: "bounce",
     });
 </script>
-<script src="{{ asset('/asset/scripts/script.js') }}"></script>
+<script src="{{ url('/asset/scripts/script.js') }}"></script>

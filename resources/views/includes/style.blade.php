@@ -5,4 +5,4 @@
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 <!-- My CSS -->
-<link rel="stylesheet" href="{{ asset('/asset/styles/style.css') }}">
+<link rel="stylesheet" href="{{ url('/asset/styles/style.css') }}">
